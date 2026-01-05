@@ -13,8 +13,9 @@ Divisi Data Science AMCC bertujuan untuk membekali anggota dengan pemahaman mend
 
 Repositori ini mencakup:
 - **Modul Pembelajaran** (Artikel Medium)
-- **Slide Presentasi** (Google Slides)
-- **Kode Sumber** untuk Praktikum
+- **Slide Presentasi** (Google Slides/PDF)
+- **Source Code** untuk Praktikum
+- **Dataset** yang bisa digunakan untuk kebutuhan praktikum
 
 Mari tingkatkan kemampuan kita bersama! 💪
 
