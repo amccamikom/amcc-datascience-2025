@@ -26,6 +26,7 @@ Berikut adalah daftar materi yang tersedia:
 1. **Pengenalan Python, NumPy, dan Pandas**
    - [Artikel Medium](hhttps://medium.com/amcc-amikom/python-library-numpy-pandas-awal-perjalanan-data-science-13b5238fb8ac)
    - [Modul Teori](https://drive.google.com/file/d/1PIaZvb23Trpx5iOxXAZvqTaA_aZ9Xz_Y/view?usp=sharing)
+   - [Quiz] (https://forms.gle/dnSzhYwiRWavweaH7)
 
 
 ## 🛠️ Cara Menggunakan Repositori Ini
